@@ -6,13 +6,6 @@
       "tech": "Sam Smith",
       "date": "2020-04-11T14:43:47.455Z",
       "id": 1
-    },
-    {
-      "message": "Hard drive failed in workstation",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2020-04-11T14:44:13.987Z",
-      "id": 2
     }
   ],
   "techs": [
