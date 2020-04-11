@@ -1,27 +1,22 @@
 {
-  "logs": [{
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+  "logs": [
+    {
+      "message": "Change network card in server 007",
       "attention": false,
-      "date": "03-02-2020",
-      "tech": "Sam Smith"
+      "tech": "Sam Smith",
+      "date": "2020-04-11T14:43:47.455Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Hard drive failed in workstation",
       "attention": true,
-      "date": "03-02-2020",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Change memory on workstation 050",
-      "attention": false,
-      "date": "03-02-2020",
-      "tech": "John Doe"
+      "tech": "Sara Wilson",
+      "date": "2020-04-11T14:44:13.987Z",
+      "id": 2
     }
   ],
-  "techs": [{
+  "techs": [
+    {
       "id": 1,
       "firstName": "John",
       "lastName": "Doe"
